@@ -1,3 +1,6 @@
+
+/** Одиночка, также известен как: Singleton */
+
 public class Court {
 
     public static void main(String[] args) {
